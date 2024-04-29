@@ -1,0 +1,18 @@
+html, body{
+
+    background-image: url("../media/space.png");
+
+}
+
+#qilo{
+
+    text-align: center;
+
+}
+
+#satellite{
+
+    margin-right: 175px;
+    margin-bottom: 350px;
+
+}

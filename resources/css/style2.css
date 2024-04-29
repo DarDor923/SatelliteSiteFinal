@@ -1,0 +1,13 @@
+html, body{
+
+    background-image: url("../media/space.png");
+
+}
+
+#planet{
+
+    margin-left: 250px;
+    margin-bottom: 100px;
+
+}
+

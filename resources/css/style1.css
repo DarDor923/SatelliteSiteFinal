@@ -1,0 +1,17 @@
+html, body{
+
+    background-image: url("../media/space.png");
+}
+
+#mogus{
+
+    text-align: right;
+
+}
+
+#empty{
+
+    margin-bottom: 425px;
+    margin-left: 550px;
+
+}

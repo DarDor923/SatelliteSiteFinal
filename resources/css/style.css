@@ -1,0 +1,38 @@
+html, body{
+
+    font-family:'Courier New', Courier, monospace;
+    text-align:left;
+
+    font-size:25px;
+    color: #5b89e6;
+    letter-spacing:1em;
+    line-height:5em;
+
+    background-image: url("../media/space.png");
+   
+}
+#blop{
+
+    text-align: right;
+
+}
+
+#star{
+
+    text-align:right;
+    margin-right: 125px;
+
+}
+
+#walkie{
+
+    text-align:center;
+    margin-right: 350px;
+
+}
+
+#last{
+
+    text-align: right;
+
+}
